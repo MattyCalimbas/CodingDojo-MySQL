@@ -2,7 +2,7 @@
 
 This is a Coding Dojo assignment presenting questions that a query must be custom taylored to answer.  
 
-Questions:
+Queries:
 1. Return all users who are friends with Kermit, make sure their names are displayed in results.
 2. Return the count of all friendships
 3. Find out who has the most friends and return the count of their friends.
