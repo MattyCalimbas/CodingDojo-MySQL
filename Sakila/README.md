@@ -1,4 +1,4 @@
-#Sakila Database (Coding Dojo MySQL assignment)
+# Sakila Database (Coding Dojo MySQL assignment)
 
 This is a Coding Dojo assignment presenting questions that a query must be custom taylored to answer.  
 
